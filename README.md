@@ -24,7 +24,7 @@ In problems where all timesteps of the input sequence are available, Bidirection
 
 ## Model Used and accuracy 
    * Model Used--`Deep learning LSTM model`
-   * Accuracy----`90.8533`
+   * Accuracy----`90.85%`
 
 ## References
   * [Fake news detection: A Data Mining perspective](https://arxiv.org/pdf/1708.01967.pdf)
