@@ -22,3 +22,12 @@ Math Behind it : https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 Bidirectional LSTMs are an extension of traditional LSTMs that can improve model performance on sequence classification problems.
 In problems where all timesteps of the input sequence are available, Bidirectional LSTMs train two instead of one LSTMs on the input sequence. The first on the input sequence as-is and the second on a reversed copy of the input sequence. This can provide additional context to the network and result in faster and even fuller learning on the problem.
 
+## Model Used and accuracy 
+   * Model Used--`Deep learning LSTM model`
+   * Accuracy----`91.5%`
+
+## References
+  * [Fake news detection: A Data Mining perspective](https://arxiv.org/pdf/1708.01967.pdf)
+  * [Fake News Identification - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5244348.pdf)
+  * [B.S. Detector](https://github.com/bs-detector/bs-detector)
+  * [Datasets from Kaggle](https://www.kaggle.com/c/fake-news/data)
